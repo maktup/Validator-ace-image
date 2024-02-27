@@ -3,7 +3,7 @@
 This functionality has been developed in JAVA that covers the CUSTOMER CU when they say:
 
 
-**I. CASO DE USO:**
+**I. USE CASE:**
 
 ***"I WANT TO BE ALWAYS UPDATED WITH THE LATEST VERSION OF ACE IMAGE, BUT I DON'T WANT TO BE MANUALLY VALIDATING EVERYTHING".***
 
