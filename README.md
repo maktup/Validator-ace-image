@@ -45,6 +45,7 @@ This has been the implementation sequence.
 
 
 **V. TEST:**
-Este debería ser el resultdo de la prueba al ejecutarse, todo el reporte con la recomendación es mostrada en LOGs.
+
+That should be the result of the test when it is executed, the entire report with the recommendation is shown in LOGs..
 
 ![Alt text](https://github.com/maktup/Validator-ace-image/blob/main/image/Validator-ace-image.jpg?raw=true "Title")
