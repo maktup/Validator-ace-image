@@ -1,4 +1,4 @@
-##  **ACE IMAGE VALIDATOR**
+##  **IBM APP CONNECT 12 IMAGE VALIDATOR**
 
 This functionality has been developed in JAVA that covers the CUSTOMER CU when they say:
 
